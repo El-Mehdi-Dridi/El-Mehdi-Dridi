@@ -15,7 +15,7 @@
 
 ## 🛡️ Cybersecurity Enthusiast | CTF Player | Pentester
 
-I'm **El Mehdi Dridi**, a cybersecurity student from **Tunisia** with a passion for ethical hacking, penetration testing, and Capture The Flag (CTF) competitions. I go by the handle **1DH4M** in the cybersecurity community.
+I'm **El Mehdi Dridi**, a cybersecurity student from **Tunisia** with a passion for ethical hacking, penetration testing, and Capture The Flag (CTF) competitions.Also `No!dea` member I go by the handle **1DH4M** in the cybersecurity community.
 
 ---
 
