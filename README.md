@@ -1,17 +1,12 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;I'm El  Mehdi Dridi/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff4b8b">1DH4M</span></h1>
+<h3 align="center">💻 Cybersecurity Enthusiast | CTF Player | Python Addict 🐍</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d028ce3-b87e-48a8-a810-54929d25e061" alt="image" width="500px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=H4ck+The+World+%F0%9F%92%BB;Pentesting+is+Art+%F0%9F%94%A5;Python+%2F+CTF+%2F+Security+Tools+Builder" alt="Typing SVG" />
 </p>
 
+---
 
 ## 🛡️ Cybersecurity Enthusiast | CTF Player | Pentester
 
@@ -36,14 +31,6 @@ I'm **El Mehdi Dridi**, a cybersecurity student from **Tunisia** with a passion 
 ---
 
 ## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1DH4M&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1DH4M&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DH4M&layout=compact&theme=radical" />
-</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/1DH4M/count.svg" alt="visitor badge"/></p>
